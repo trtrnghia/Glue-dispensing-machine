@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "D:\\conda_env\\vision_study\\python.exe",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": false,
+  "python.linting.mypyEnabled": false,
+  "python.linting.enabled": false
+}
